@@ -1,6 +1,6 @@
-#A simple project for js AzAuth implementation.
+# A simple project for js AzAuth implementation.
 
-#Not want make a documention.
+# Not want make a documention.
 
  **Example**
 
